@@ -1,17 +1,18 @@
 {
-  "name": "graphql-playground-react",
+  "name": "graphql-playground-react-patched",
   "version": "1.7.23",
   "main": "./lib/lib.js",
   "typings": "./lib/lib.d.ts",
   "description": "GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration).",
   "contributors": [
+    "Daniel Rearden <danielrearden@gmail.com>",
     "Tim Suchanek <tim@graph.cool>",
     "Johannes Schickling <johannes@graph.cool>",
     "Lukas Huvar <lukas@huvar.cz>"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/graphcool/graphql-playground.git"
+    "url": "http://github.com/danielrearden/graphql-playground.git"
   },
   "license": "MIT",
   "scripts": {

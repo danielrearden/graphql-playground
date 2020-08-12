@@ -1,3 +1,5 @@
+> Note: This is a fork of `graphql-playground-react`. It tweaks the search component to include both names and descriptions when searching for a term.
+
 <p align="center"><img src="https://imgur.com/5fzMbyV.png" width="269"></p>
 
 GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration). <br />
